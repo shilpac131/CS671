@@ -1,7 +1,7 @@
-# Deep Learning and Applications - CS671 IIT Mandi
+# CS671 - Deep Learning and Applications (at IIT Mandi)
 
 
-This repository provides the assignment questions and solutions to the CS671 (Deep Learning and Analysis) course conducted by Dr. Dileep A.D.
+This repository provides the assignment questions and solutions to the CS671 (Deep Learning and Analysis) course conducted by [Dr. Dileep A.D](https://www.iitdh.ac.in/user-profile/dileep-d).
 
 The Assignment consist the following topics:
 
